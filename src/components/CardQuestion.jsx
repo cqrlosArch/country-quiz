@@ -9,7 +9,7 @@ import Flag from './Flag';
 
 const CardStyled = styled.div`
   background-color: var(--white);
-  width: 364px;
+  max-width: 350px;
   min-height: 415px;
   border-radius: 24px;
   position: relative;
