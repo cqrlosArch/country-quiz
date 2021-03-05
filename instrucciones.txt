@@ -1,0 +1,11 @@
+Desafío: cree una aplicación de cuestionario de países utilizando una API. Utilice bibliotecas de front-end como React o Vue. No mire la solución existente. Cumplir con las historias de usuario a continuación:
+
+Historia de usuario: Puedo ver al menos 2 tipos de preguntas: una ciudad es la capital de .. o una bandera pertenece a un país ..
+Historia de usuario: puedo ver seleccionar una respuesta
+Historia de usuario: puedo ver si mi respuesta es correcta o incorrecta
+Historia de usuario: cuando respondo correctamente, puedo pasar a la siguiente pregunta
+Historia de usuario: cuando respondo incorrectamente, puedo ver mis resultados y volver a intentarlo
+Historia de usuario: puedo intentarlo de nuevo
+Icono: https://google.github.io/material-design-icons/
+
+API: https://restcountries.eu/. Utilice datos de la API para crear preguntas y respuestas
